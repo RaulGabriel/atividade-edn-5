@@ -35,7 +35,7 @@ O projeto é um menu que permite ao usuário escolher e executar as seguintes fe
 
 1.  **Clone o repositório:**
     ```bash
-    git clones
+    git clone <url-repositorio>
     ```
 2.  **Navegue até a pasta do projeto:**
     ```bash
